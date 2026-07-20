@@ -88,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1129-shortest-path-with-alternating-colors](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1129-shortest-path-with-alternating-colors) |
+## Graph Theory
+|  |
+| ------- |
+| [1129-shortest-path-with-alternating-colors](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1129-shortest-path-with-alternating-colors) |
 <!---LeetCode Topics End-->
