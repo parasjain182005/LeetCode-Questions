@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0881-boats-to-save-people](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [1260-shift-2d-grid](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0001-two-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
