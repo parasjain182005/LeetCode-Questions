@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0623-add-one-row-to-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0623-add-one-row-to-tree) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Graph Theory
 |  |
@@ -122,4 +123,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2498-frog-jump-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2498-frog-jump-ii) |
+## Tree
+|  |
+| ------- |
+| [0623-add-one-row-to-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0623-add-one-row-to-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0623-add-one-row-to-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0623-add-one-row-to-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0623-add-one-row-to-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0623-add-one-row-to-tree) |
 <!---LeetCode Topics End-->
