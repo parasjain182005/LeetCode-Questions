@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3024-type-of-triangle](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3024-type-of-triangle) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Stack
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-star-sum-of-a-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [3024-type-of-triangle](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3024-type-of-triangle) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Hash Table
 |  |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
