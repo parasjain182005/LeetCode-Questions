@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3024-type-of-triangle](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3024-type-of-triangle) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1936-add-minimum-number-of-rungs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1936-add-minimum-number-of-rungs) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2498-frog-jump-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2498-frog-jump-ii) |
+| [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Monotonic Stack
 |  |
