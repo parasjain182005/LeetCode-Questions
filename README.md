@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
+| [0556-next-greater-element-iii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3024-type-of-triangle](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3024-type-of-triangle) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0556-next-greater-element-iii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0856-score-of-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0556-next-greater-element-iii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0881-boats-to-save-people](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Greedy
