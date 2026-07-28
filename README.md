@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [3024-type-of-triangle](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3024-type-of-triangle) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0695-max-area-of-island](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
