@@ -196,11 +196,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0508-most-frequent-subtree-sum) |
 | [0623-add-one-row-to-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0623-add-one-row-to-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0508-most-frequent-subtree-sum) |
 | [0623-add-one-row-to-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0623-add-one-row-to-tree) |
 | [0695-max-area-of-island](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0695-max-area-of-island) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0508-most-frequent-subtree-sum) |
 | [0623-add-one-row-to-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0623-add-one-row-to-tree) |
 ## Union-Find
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0037-sudoku-solver) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
