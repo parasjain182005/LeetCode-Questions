@@ -257,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
