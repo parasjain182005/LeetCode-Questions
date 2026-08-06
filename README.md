@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2961-double-modular-exponentiation](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2961-double-modular-exponentiation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3024-type-of-triangle) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2951-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
