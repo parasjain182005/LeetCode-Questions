@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [1254-number-of-closed-islands](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1424-diagonal-traverse-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0508-most-frequent-subtree-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0508-most-frequent-subtree-sum) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1512-number-of-good-pairs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1903-largest-odd-number-in-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1936-add-minimum-number-of-rungs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1936-add-minimum-number-of-rungs) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2497-maximum-star-sum-of-a-graph) |
