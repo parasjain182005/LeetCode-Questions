@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3024-type-of-triangle) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3731-find-missing-elements](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2951-find-the-peaks](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
