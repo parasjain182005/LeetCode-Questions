@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-diagonal-traverse-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1512-number-of-good-pairs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1936-add-minimum-number-of-rungs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1936-add-minimum-number-of-rungs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-diagonal-traverse-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1424-diagonal-traverse-ii) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3024-type-of-triangle) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0881-boats-to-save-people](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Greedy
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2498-frog-jump-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2498-frog-jump-ii) |
 ## Tree
 |  |
@@ -276,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0620-not-boring-movies](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0620-not-boring-movies) |
+## Prefix Sum
+|  |
+| ------- |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
