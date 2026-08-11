@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
+| [1904-the-number-of-full-rounds-you-have-played](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2469-convert-the-temperature) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
+| [1904-the-number-of-full-rounds-you-have-played](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [2278-percentage-of-letter-in-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2278-percentage-of-letter-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
