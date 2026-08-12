@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-star-sum-of-a-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2498-frog-jump-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2498-frog-jump-ii) |
 | [2951-find-the-peaks](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2951-find-the-peaks) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2961-double-modular-exponentiation](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2961-double-modular-exponentiation) |
 | [3024-type-of-triangle](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3024-type-of-triangle) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Database
 |  |
