@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0508-most-frequent-subtree-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0508-most-frequent-subtree-sum) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0556-next-greater-element-iii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0856-score-of-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
