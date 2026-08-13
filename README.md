@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0037-sudoku-solver) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0877-stone-game](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0877-stone-game) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Game Theory
