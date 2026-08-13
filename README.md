@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0856-score-of-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0556-next-greater-element-iii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0856-score-of-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
@@ -296,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
