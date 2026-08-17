@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0623-add-one-row-to-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0623-add-one-row-to-tree) |
+| [0655-print-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0655-print-binary-tree) |
 | [0695-max-area-of-island](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1254-number-of-closed-islands](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
@@ -249,12 +250,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0508-most-frequent-subtree-sum) |
 | [0623-add-one-row-to-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0623-add-one-row-to-tree) |
+| [0655-print-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0655-print-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0508-most-frequent-subtree-sum) |
 | [0623-add-one-row-to-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0623-add-one-row-to-tree) |
+| [0655-print-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0655-print-binary-tree) |
 | [0695-max-area-of-island](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0508-most-frequent-subtree-sum) |
 | [0623-add-one-row-to-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0623-add-one-row-to-tree) |
+| [0655-print-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0655-print-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
