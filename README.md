@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0206-reverse-linked-list](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [2326-spiral-matrix-iv](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0508-most-frequent-subtree-sum) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0508-most-frequent-subtree-sum) |
 | [0623-add-one-row-to-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0623-add-one-row-to-tree) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Dynamic Programming
 |  |
