@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0973-k-closest-points-to-origin](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0973-k-closest-points-to-origin](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1424-diagonal-traverse-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2497-maximum-star-sum-of-a-graph) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1512-number-of-good-pairs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1904-the-number-of-full-rounds-you-have-played) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0877-stone-game](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
+| [0973-k-closest-points-to-origin](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1254-number-of-closed-islands](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
+| [0973-k-closest-points-to-origin](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1424-diagonal-traverse-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1424-diagonal-traverse-ii) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -328,4 +333,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
