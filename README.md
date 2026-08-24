@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0623-add-one-row-to-tree) |
 | [0655-print-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0655-print-binary-tree) |
 | [0695-max-area-of-island](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0695-max-area-of-island) |
+| [0919-complete-binary-tree-inserter](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0919-complete-binary-tree-inserter) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1254-number-of-closed-islands](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0508-most-frequent-subtree-sum) |
 | [0623-add-one-row-to-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0623-add-one-row-to-tree) |
 | [0655-print-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0655-print-binary-tree) |
+| [0919-complete-binary-tree-inserter](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0919-complete-binary-tree-inserter) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0508-most-frequent-subtree-sum) |
 | [0623-add-one-row-to-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0623-add-one-row-to-tree) |
 | [0655-print-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0655-print-binary-tree) |
+| [0919-complete-binary-tree-inserter](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0919-complete-binary-tree-inserter) |
 ## Union-Find
 |  |
 | ------- |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0146-lru-cache) |
+| [0919-complete-binary-tree-inserter](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0919-complete-binary-tree-inserter) |
 ## Doubly-Linked List
 |  |
 | ------- |
