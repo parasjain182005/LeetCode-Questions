@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Array
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
