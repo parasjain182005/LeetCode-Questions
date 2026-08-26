@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
+| [0707-design-linked-list](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0707-design-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0146-lru-cache) |
+| [0707-design-linked-list](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0707-design-linked-list) |
 | [0919-complete-binary-tree-inserter](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0919-complete-binary-tree-inserter) |
 ## Doubly-Linked List
 |  |
