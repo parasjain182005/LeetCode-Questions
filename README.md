@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [2278-percentage-of-letter-in-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2278-percentage-of-letter-in-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Database
