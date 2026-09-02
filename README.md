@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 ## Merge Sort
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2498-frog-jump-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2498-frog-jump-ii) |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2951-find-the-peaks](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2961-double-modular-exponentiation](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2961-double-modular-exponentiation) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0133-clone-graph) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [3310-remove-methods-from-project](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
@@ -447,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1670-design-front-middle-back-queue) |
+## Shortest Path
+|  |
+| ------- |
+| [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 <!---LeetCode Topics End-->
