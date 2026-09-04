@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1512-number-of-good-pairs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1670-design-front-middle-back-queue](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1670-design-front-middle-back-queue) |
+| [1701-average-waiting-time](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1701-average-waiting-time) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [1936-add-minimum-number-of-rungs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1936-add-minimum-number-of-rungs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
+| [1701-average-waiting-time](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1701-average-waiting-time) |
 | [2326-spiral-matrix-iv](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [2961-double-modular-exponentiation](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2961-double-modular-exponentiation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
