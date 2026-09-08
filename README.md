@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0146-lru-cache](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0146-lru-cache) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0556-next-greater-element-iii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 ## Geometry
 |  |
