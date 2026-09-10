@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0655-print-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0919-complete-binary-tree-inserter) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0655-print-binary-tree) |
 | [0919-complete-binary-tree-inserter](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0919-complete-binary-tree-inserter) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Union-Find
 |  |
