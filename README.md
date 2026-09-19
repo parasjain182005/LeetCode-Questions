@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3371-identify-the-largest-outlier-in-an-array) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [2961-double-modular-exponentiation](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2961-double-modular-exponentiation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Breadth-First Search
 |  |
 | ------- |
