@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0260-single-number-iii) |
+| [0334-increasing-triplet-subsequence](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0503-next-greater-element-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0846-hand-of-straights](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -520,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0062-unique-paths) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
