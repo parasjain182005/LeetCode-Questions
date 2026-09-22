@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1254-number-of-closed-islands](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-complete-binary-tree-inserter](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0919-complete-binary-tree-inserter) |
 | [0951-flip-equivalent-binary-trees](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1254-number-of-closed-islands](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0919-complete-binary-tree-inserter](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0919-complete-binary-tree-inserter) |
 | [0951-flip-equivalent-binary-trees](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Union-Find
