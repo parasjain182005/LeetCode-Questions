@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3649-number-of-perfect-pairs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3649-number-of-perfect-pairs) |
 | [3870-count-commas-in-range](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3871-count-commas-in-range-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3649-number-of-perfect-pairs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3649-number-of-perfect-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
