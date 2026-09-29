@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2326-spiral-matrix-iv](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2498-frog-jump-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2498-frog-jump-ii) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2326-spiral-matrix-iv](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Simulation
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Game Theory
 |  |
 | ------- |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Recursion
 |  |
 | ------- |
