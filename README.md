@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1705-maximum-number-of-eaten-apples](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1705-maximum-number-of-eaten-apples) |
 | [2336-smallest-number-in-infinite-set](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2542-maximum-subsequence-score](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2542-maximum-subsequence-score) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Merge Sort
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2498-frog-jump-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2498-frog-jump-ii) |
+| [2542-maximum-subsequence-score](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2542-maximum-subsequence-score) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [2680-maximum-or](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2680-maximum-or) |
 | [2831-find-the-longest-equal-subarray](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2831-find-the-longest-equal-subarray) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2542-maximum-subsequence-score](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2542-maximum-subsequence-score) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3024-type-of-triangle) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2498-frog-jump-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2498-frog-jump-ii) |
+| [2542-maximum-subsequence-score](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2542-maximum-subsequence-score) |
 | [2680-maximum-or](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2680-maximum-or) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
