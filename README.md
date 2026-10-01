@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-diagonal-traverse-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1705-maximum-number-of-eaten-apples) |
+| [2336-smallest-number-in-infinite-set](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2336-smallest-number-in-infinite-set](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2831-find-the-longest-equal-subarray](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0707-design-linked-list) |
 | [0919-complete-binary-tree-inserter](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0919-complete-binary-tree-inserter) |
 | [1670-design-front-middle-back-queue](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1670-design-front-middle-back-queue) |
+| [2336-smallest-number-in-infinite-set](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -552,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0334-increasing-triplet-subsequence) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
