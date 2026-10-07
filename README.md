@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0654-maximum-binary-tree) |
 | [0856-score-of-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0556-next-greater-element-iii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0856-score-of-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0846-hand-of-straights](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
