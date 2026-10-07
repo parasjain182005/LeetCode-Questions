@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0556-next-greater-element-iii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0556-next-greater-element-iii) |
 | [0856-score-of-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0133-clone-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0133-clone-graph) |
+| [0301-remove-invalid-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0623-add-one-row-to-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0623-add-one-row-to-tree) |
 | [0655-print-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0655-print-binary-tree) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
