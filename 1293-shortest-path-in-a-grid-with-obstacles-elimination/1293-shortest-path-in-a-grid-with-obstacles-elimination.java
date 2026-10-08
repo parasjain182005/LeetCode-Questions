@@ -27,8 +27,8 @@ class Solution {
 
                 if(r>=0 && r<n && c>=0 && c<m){
                     if(grid[r][c]==0 &&  p[2] > vis[r][c]){
-                        q.offer(new int[]{r,c,p[2],p[3]+1});
-                        vis[r][c]=p[2];
+                        q.offer(new int[]{r, c, p[2], p[3] + 1});
+                        vis[r][c] = p[2];
                     }
                     else if(grid[r][c] == 1 && p[2] > 0 && p[2] - 1 > vis[r][c]) {
                         q.offer(new int[]{r, c, p[2] - 1, p[3] + 1});
