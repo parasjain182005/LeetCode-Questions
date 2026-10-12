@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2680-maximum-or](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2680-maximum-or) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2831-find-the-longest-equal-subarray](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2831-find-the-longest-equal-subarray) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2951-find-the-peaks](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2961-double-modular-exponentiation](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2961-double-modular-exponentiation) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2336-smallest-number-in-infinite-set](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2831-find-the-longest-equal-subarray](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2831-find-the-longest-equal-subarray) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2542-maximum-subsequence-score) |
 | [2680-maximum-or](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2680-maximum-or) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0260-single-number-iii) |
 | [1386-cinema-seat-allocation](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2680-maximum-or](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2680-maximum-or) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
