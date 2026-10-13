@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-number-of-perfect-pairs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3649-number-of-perfect-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3649-number-of-perfect-pairs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3649-number-of-perfect-pairs) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3424-minimum-cost-to-make-arrays-identical) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
