@@ -24,7 +24,7 @@ class Solution {
         return (int) ans;
     }
 
-    void apply(int p, int l, int r, long v) {
+    public void apply(int p, int l, int r, long v) {
         long len = r - l + 1L;
 
         sq[p] = (sq[p] + 2 * v * sum[p]
@@ -33,7 +33,7 @@ class Solution {
         lazy[p] = (lazy[p] + v) % MOD;
     }
 
-    void push(int p, int l, int r) {
+    public void push(int p, int l, int r) {
         if (lazy[p] == 0 || l == r) return;
 
         int m = (l + r) / 2;
@@ -42,7 +42,7 @@ class Solution {
         lazy[p] = 0;
     }
 
-    void update(int p, int l, int r, int ql, int qr) {
+    public void update(int p, int l, int r, int ql, int qr) {
         if (qr < l || r < ql) return;
 
         if (ql <= l && r <= qr) {
