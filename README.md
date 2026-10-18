@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0654-maximum-binary-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1512-number-of-good-pairs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1903-largest-odd-number-in-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1904-the-number-of-full-rounds-you-have-played) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1512-number-of-good-pairs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1670-design-front-middle-back-queue](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1670-design-front-middle-back-queue) |
 | [1701-average-waiting-time](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1701-average-waiting-time) |
 | [1705-maximum-number-of-eaten-apples](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1705-maximum-number-of-eaten-apples) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Union-Find
@@ -463,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0695-max-area-of-island](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting Sort
 |  |
 | ------- |
@@ -478,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -488,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Game Theory
 |  |
@@ -598,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -616,4 +625,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
