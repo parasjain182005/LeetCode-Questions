@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3649-number-of-perfect-pairs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3649-number-of-perfect-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2326-spiral-matrix-iv](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -477,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Counting Sort
 |  |
 | ------- |
