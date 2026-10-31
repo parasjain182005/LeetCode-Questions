@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0707-design-linked-list](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0707-design-linked-list) |
 | [0919-complete-binary-tree-inserter](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0919-complete-binary-tree-inserter) |
+| [0933-number-of-recent-calls](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1670-design-front-middle-back-queue) |
 | [1845-seat-reservation-manager](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1845-seat-reservation-manager) |
 | [2336-smallest-number-in-infinite-set](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2336-smallest-number-in-infinite-set) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Queue
 |  |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1670-design-front-middle-back-queue) |
 ## Shortest Path
 |  |
