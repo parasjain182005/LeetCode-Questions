@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1019-next-greater-node-in-linked-list](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1207-unique-number-of-occurrences](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1222-queens-that-can-attack-the-king](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0508-most-frequent-subtree-sum](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0508-most-frequent-subtree-sum) |
 | [0846-hand-of-straights](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0846-hand-of-straights) |
+| [1207-unique-number-of-occurrences](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1386-cinema-seat-allocation](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1512-number-of-good-pairs) |
