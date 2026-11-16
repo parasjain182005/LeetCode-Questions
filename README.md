@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1904-the-number-of-full-rounds-you-have-played](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1904-the-number-of-full-rounds-you-have-played) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2278-percentage-of-letter-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2409-count-days-spent-together) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-queens-that-can-attack-the-king](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1222-queens-that-can-attack-the-king) |
 | [1260-shift-2d-grid](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1701-average-waiting-time](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1701-average-waiting-time) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2326-spiral-matrix-iv](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [2390-removing-stars-from-a-string](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2961-double-modular-exponentiation](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2961-double-modular-exponentiation) |
