@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/0133-clone-graph) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2662-minimum-cost-of-a-path-with-special-roads](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2662-minimum-cost-of-a-path-with-special-roads) |
 | [3310-remove-methods-from-project](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/parasjain182005/LeetCode-Questions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/parasjain182005/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parasjain182005/LeetCode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
